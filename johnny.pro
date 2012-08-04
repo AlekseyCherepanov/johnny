@@ -29,7 +29,3 @@ RESOURCES += \
 OTHER_FILES += \
     README \
     LICENSE
-
-# Default build is debug
-CONFIG -= release
-CONFIG += debug
